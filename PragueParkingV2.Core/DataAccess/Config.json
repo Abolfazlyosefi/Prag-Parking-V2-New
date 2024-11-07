@@ -1,0 +1,8 @@
+{
+  "TotalParkingSpots": 100,
+  "VehicleTypes": 
+  {
+    "Car": 1,
+    "Motorcycle": 2
+  }
+}

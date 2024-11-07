@@ -1,0 +1,10 @@
+[
+  {
+    "SpotId": 1,
+    "ParkedVehicle": {
+      "LicensePlate": "ABC123",
+      "ParkingTime": "2024-10-22T10:00:00",
+      "Type": "Car"
+    }
+  }
+]
