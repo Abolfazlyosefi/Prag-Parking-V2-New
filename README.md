@@ -1,0 +1,1 @@
+Koden till SecretMenu = "Sardinien"
